@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="8dp"
+    android:elevation="4dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="12dp"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/txtServNm"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="서비스명"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/txtServDgst"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="설명" />
+
+        <TextView
+            android:id="@+id/txtJurMnofNm"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="부처" />
+
+        <TextView
+            android:id="@+id/txtLifeArray"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="생애주기" />
+
+        <TextView
+            android:id="@+id/txtSrvPvsnNm"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="제공방식" />
+    </LinearLayout>
+</androidx.cardview.widget.CardView>

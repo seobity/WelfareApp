@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">FinalProject</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string-array name="life_stage_array">
+        <item>전체</item>
+        <item>영유아</item>
+        <item>아동</item>
+        <item>청소년</item>
+        <item>청년</item>
+        <item>중장년</item>
+        <item>노년</item>
+        <item>임신 · 출산</item>
+    </string-array>
+    <string name="life_stage_prompt">생애주기를 선택하세요</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
