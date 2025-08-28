@@ -1,9 +1,15 @@
 # 복지 정보 몽땅 
 학교 수업인 안드로이드 앱프로그래밍 기말 프로젝트로 만든 복지 정보를 모아 보여주는 앱입니다.
 
+<table>
+  <tr>
+    <td>![스플래시](https://github.com/user-attachments/assets/320f83de-e2c0-44b0-b5d4-3bb223eff86d)</td>
+    <td>![로그인및횐가입](https://github.com/user-attachments/assets/7a690968-7159-41f7-861d-84b1f9a524af)</td>
+    <td></td>
+  </tr>
+</table>
 
-![스플래시](https://github.com/user-attachments/assets/320f83de-e2c0-44b0-b5d4-3bb223eff86d)
-![로그인및횐가입](https://github.com/user-attachments/assets/7a690968-7159-41f7-861d-84b1f9a524af)
+
 ![로그인](https://github.com/user-attachments/assets/7e919d1a-e4aa-4eaa-a616-f6067612686a)
 ![로그아웃](https://github.com/user-attachments/assets/0410fed4-f975-445c-a2e2-aab19aab5625)
 ![커뮤니티](https://github.com/user-attachments/assets/dd63577b-48fa-4bd0-a72a-d362e02f1f18)
